@@ -23,3 +23,9 @@ yarn-debug.log*
 yarn-error.log*
 
 /.firebase
+
+
+src/utils/constants.js
+
+
+/dataconnect
