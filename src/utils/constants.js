@@ -17,3 +17,12 @@ export const API_OPTIONS = {
 };
 
 export const IMG_CDN = "https://image.tmdb.org/t/p/w780";
+
+export const SUPPORTED_LANGUAGES = [
+  { identifier: "en", name: "English" },
+  { identifier: "hindi", name: "Hindi" },
+  { identifier: "telugu", name: "Telugu" },
+  { identifier: "japanese", name: "Japanese" },
+];
+
+export const GEMINI_KEY = "AIzaSyBLGA6eIbC8rDqzJJ-rMAAL2ZoB0lFI4bs";
