@@ -22,8 +22,6 @@ const GptSearchBar = () => {
   };
 
   const handleGptSearchClick = async () => {
-    console.log(searchText.current.value);
-
     const gptQuery =
       "Act as a Movie Recommendation system and suggest some movies from the Query :" +
       searchText.current.value +
